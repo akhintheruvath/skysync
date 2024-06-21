@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Prerequisites:
+
+Ensure you have the following installed on your machine:
+Node.js (https://nodejs.org/en),
+npm (usually comes with Node.js)
+
+## Tailwind installation and setup
+
+Refer the documentation https://tailwindcss.com/docs/installation
+
+## install all the dependencies
+
+Use the command 
+`npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
