@@ -1,6 +1,10 @@
+import { WeatherPage } from "./pages/WeatherPage";
+
 function App() {
   return (
-    <>Initial setups</>
+    <>
+      <WeatherPage />
+    </>
   );
 }
 
